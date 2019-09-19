@@ -47,7 +47,7 @@ body:before{
     width: 400px;
     height: 500px;
     padding: 10px 30px;
-    background: rgba(0, 0, 0, .5);
+    background: white;
     box-sizing: border-box;
     border-radius: 5px;
 }
